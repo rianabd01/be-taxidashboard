@@ -10,8 +10,8 @@ Pastikan telah menginstal **Bun** sebelum menjalankan proyek ini.
 
 1. Clone repositori:
    ```sh
-   git clone https://github.com/rianabd01/ganapatih-be.git
-   cd ganapatih-be
+   git clone https://github.com/rianabd01/be-taxidashboard.git
+   cd be-taxidashboard
    ```
 2. Instal dependensi:
    ```sh
